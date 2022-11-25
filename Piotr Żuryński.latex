@@ -1,0 +1,197 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[MeX]{polski}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\title{Kolokwium \LaTeX-rząd P309}
+\author{Piotr Żuryński}
+\date{25.11.2022}
+\begin{document}
+\maketitle
+\tableofcontents
+\begin{flushleft}
+\textbf{\large{Wprowadzenie}}\\
+\end{flushleft}
+To jest wprowadzenie objasniajace nieco kolokwium. Zwróc uwage, ze jestesmy
+w sekcji nienumerowanej. W sekcji tytułowej wpisz swoje prawdziwe
+imie i nazwisko. Jako date wpisz recznie date pisania kolokwium. W tytule
+znajduje sie specjalny symbol. Ustaw czcionke na 11 pkt, papier jako letter,
+dołacz pakiet polski. Spis tresci jest na poczatku. Wszystkie odsyłacze
+powinny byc klikalne.
+
+\section{Zdjęcia}
+ Tutaj testujemy zdjecia. Mamy pare tekstu lorem ipsum. To jest odwołanie do tabeli \ref{fig:ZestawP309/paper.png}.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mattis mauris
+nec nisl scelerisque ultrices nec vitae lacus. Nullam porta tortor nec consectetur
+faucibus. Nam nulla quam, bibendum a felis porta, suscipit sodales
+lectus. Morbi semper consectetur libero quis ultrices. Pellentesque id ultrices
+orci, ut cursus arcu. Aenean ut urna sit amet ex tincidunt eleifend. Praesent
+non pulvinar arcu. Donec ac dignissim urna. Etiam mattis dictum tempor.\par
+\newpage
+\raggedright
+In sagittis, nisi quis vehicula accumsan, est sapien pharetra libero, sit amet
+varius metus nisl pellentesque dolor. Donec volutpat ipsum sit amet efficitur
+dictum. Cras lacinia urna eu tempus lacinia. Nunc lacinia, nunc sed cursus
+placerat, odio nunc lacinia ligula, nec rhoncus eros purus et quam. Quisque
+finibus purus dui, sit amet scelerisque tellus gravida ut. Integer sit amet
+aliquam nunc.
+
+\begin{figure}[h]
+\includegraphics[width=0.3\textwidth]{ZestawP309/airport.png} 
+\centering
+\caption{Ten rysunek jest w biezacym miejscu tekstu. Szerokosc to 0.3
+szerokosci tekstu.}
+\label{fig:ZestawP309/airport.png}
+\end{figure}
+
+\parindent 0.5cm
+Cras et dapibus felis, vel pulvinar urna. Nulla faucibus porttitor odio vel
+gravida. Maecenas ullamcorper at nisl a tempor. Sed at nibh facilisis, aliquet
+massa pulvinar, dignissim orci. Phasellus suscipit tellus eget tincidunt
+sodales. Mauris tempus ipsum congue, pharetra diam ac, finibus tortor. Pellentesque
+bibendum tempus neque, id interdum lacus luctus et. Aenean eget
+tellus ac est mattis dignissim a nec nunc. Etiam eu dolor eros.
+\\
+\parindent 0.5cm
+Morbi iaculis quam id porta pulvinar. Donec vitae pulvinar lectus. Nam
+id nisi massa. Sed pulvinar ipsum vitae vestibulum mollis. Donec ornare leo
+eu nisl mollis, sit amet sollicitudin lectus lacinia. In luctus ante ut pharetra
+hendrerit. Ut a cursus turpis, at viverra mauris. Duis et quam in est
+pellentesque placerat. Pellentesque et bibendum elit. Curabitur dapibus lacinia
+quam, nec suscipit enim euismod nec. Donec porttitor eleifend est.
+Nam et dapibus justo. Vestibulum pellentesque pulvinar felis eget molestie.
+Suspendisse potenti. Sed vel pellentesque elit, in feugiat lacus.
+\\
+\parindent 0.5cm
+Praesent nec massa hendrerit eros rhoncus facilisis in et nunc. Aliquam
+sagittis turpis eget augue dictum, et ullamcorper tortor blandit. Etiam sed
+hendrerit tellus. Suspendisse mi sapien, sollicitudin ac iaculis at, placerat et
+lectus. Curabitur ac augue felis. Fusce vitae felis tempor ipsum mattis sollicitudin.
+Donec mollis ipsum vel orci accumsan, non malesuada dui efficitur.
+Interdum et malesuada fames ac ante ipsum primis in faucibus.
+\\
+\parindent 0.5cm
+Praesent nec massa hendrerit eros rhoncus facilisis in et nunc. Aliquam
+\\
+\newpage
+sagittis turpis eget augue dictum, et ullamcorper tortor blandit. Etiam sed
+hendrerit tellus. Suspendisse mi sapien, sollicitudin ac iaculis at, placerat et
+lectus. Curabitur ac augue felis. Fusce vitae felis tempor ipsum mattis sollicitudin.
+Donec mollis ipsum vel orci accumsan, non malesuada dui efficitur.
+Interdum et malesuada fames ac ante ipsum primis in faucibus.
+\\
+\parindent 0.5cm
+Etiam in turpis non dolor tempor tincidunt sed vitae est. Phasellus quis
+arcu quam. Pellentesque nulla mi, interdum nec dictum vitae, fermentum sed
+sapien. Nullam tempor nibh in dapibus maximus. Curabitur posuere ex vel
+risus imperdiet fringilla. Suspendisse potenti. Morbi pulvinar eros neque, at
+scelerisque orci lacinia molestie. Morbi facilisis dolor sed elit ullamcorper, sit
+amet molestie augue semper. Aliquam non malesuada lorem, ac gravida leo.
+Nullam fringilla dolor ac pulvinar condimentum. Suspendisse finibus, mauris
+et consectetur hendrerit, purus leo aliquet tellus, a mollis lorem urna sed
+tortor. Phasellus consectetur vestibulum ante, ac molestie purus sollicitudin
+nec. Sed fermentum pulvinar velit.
+\\
+\parindent 0.5cm
+Etiam in turpis non dolor tempor tincidunt sed vitae est. Phasellus quis
+arcu quam. Pellentesque nulla mi, interdum nec dictum vitae, fermentum sed
+sapien. Nullam tempor nibh in dapibus maximus. Curabitur posuere ex vel
+risus imperdiet fringilla. Suspendisse potenti. Morbi pulvinar eros neque, at
+scelerisque orci lacinia molestie. Morbi facilisis dolor sed elit ullamcorper, sit
+amet molestie augue semper. Aliquam non malesuada lorem, ac gravida leo.
+Nullam fringilla dolor ac pulvinar condimentum. Suspendisse finibus, mauris
+et consectetur hendrerit, purus leo aliquet tellus, a mollis lorem urna sed
+tortor. Phasellus consectetur vestibulum ante, ac molestie purus sollicitudin
+nec. Sed fermentum pulvinar velit.
+\\
+\parindent 0.5cm
+Etiam in turpis non dolor tempor tincidunt sed vitae est. Phasellus quis
+arcu quam. Pellentesque nulla mi, interdum nec dictum vitae, fermentum sed
+sapien. Nullam tempor nibh in dapibus maximus. Curabitur posuere ex vel
+risus imperdiet fringilla. Suspendisse potenti. Morbi pulvinar eros neque, at
+scelerisque orci lacinia molestie. Morbi facilisis dolor sed elit ullamcorper, sit
+amet molestie augue semper. Aliquam non malesuada lorem, ac gravida leo.
+Nullam fringilla dolor ac pulvinar condimentum. Suspendisse finibus, mauris
+\begin{figure}[h]
+\includegraphics[width=2cm]{ZestawP309/paper.png} 
+\centering
+\caption{Ten rysunek jest na dole strony. Szerokosc to 2 cm.}
+\label{fig:ZestawP309/paper.png}
+\end{figure}
+
+\newpage
+\begingroup
+\raggedright
+et consectetur hendrerit, purus leo aliquet tellus, a mollis lorem urna sed
+tortor. Phasellus consectetur vestibulum ante, ac molestie purus sollicitudin
+nec. Sed fermentum pulvinar velit.
+\endgroup
+\section{Tabele}
+W tej sekcji numerowanej testujemy tabele. Wykonaj ponizsza tabelke. Jest
+ona w biezacym miejscu tekstu. Pierwsza kolumna jest do prawej, druga do
+srodka. Sama tabela jest wysrodkowana.
+\\
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+Kod ISO 3166       & CZ   \\ \hline
+Domena internetowa & .cz  \\ \hline
+Kod samochodowy    & CZ   \\ \hline
+Kod samolotowy     & OK   \\ \hline
+Kod telefoniczy    & +420 \\ \hline
+\end{tabular}
+\caption{Czechy.}
+\label{table:1}
+\end{table}
+To jest odwołanie do tabeli \ref{table:1}
+\section{Wzory matematyczne}
+Tutaj testujemy wzory matematyczne. Wszystkie sa wysrodkowane w oddzielnym
+wierszu. Zwróc uwage, ze niektóre posiadaja numery.
+\section{Tryb tekstowy}
+Tutaj testujemy rózne opcje zwiazane z tekstem.
+\\
+\begin{flushleft}
+\textbf{Ten akapit jest pogrubiony i wyrównany do lewej. Oficjalnymi
+symbolami panstwa czeskiego sa: wielki i mały herb Czech, flaga}
+\end{flushleft}
+\newpage
+\begin{flushleft}
+\textbf{Czech, flaga prezydenta Czech, pieczec panstwowa Czech, czeskie
+barwy narodowe i hymn Czech Gdzie jest dom mój? Symbole
+panstwowe wskazuja na tradycje sredniowiecznego panstwa
+czeskiego (herb), ruchu husyckiego (hasło Prawda zwyciezy!
+sztandaru prezydenckiego), odrodzenia narodowego (hymn) i
+Czechosłowacji (flaga). Wyjatkowym szacunkiem darzona jest
+korona swietego Wacława, bedaca relikwia narodowa,
+nieoficjalnym symbolem panstwowosci i suwerennosci czeskiej.
+Symbolem panstwa czeskiego jest równiez lipa, której wizerunki
+lisci umieszczone sa m.in. na pieczeci panstwowej i banknotach
+czeskich.}
+\end{flushleft}
+ \marginpar{Test1234 na
+marginesie.}
+\begin{flushright}
+\tt{Ten akapit jest czcionka "maszynowa" i wyrównany do prawej.
+Wiekszosc terytorium Czech zajmuja tereny wyzynno-górskie
+Masywu Czeskiego. Jest on otoczony z trzech stron górami:
+Sudetami (Sniezka 1603 m n.p.m.), Rudawami (Kl´ınovec 1244 m
+n.p.m.), Lasem Czeskim (1042 m n.p.m.) i Lasem Bawarskim
+(Szumawa). Srodkowa czesc Masywu Czeskiego jest zapadliskiem z
+dolina Łaby, zas na południu znajduja sie kotliny Trzebonska i
+Budziejowicka. Od Karpat Masyw Czeski oddzielony jest na
+wschodzie morawsko-slaskim pasem obnizen.}
+\end{flushright}
+\begin{thebibliography}{9}
+\bibitem{texbook}
+R. Martin, Czysty kod. Podrecznik dobrego programisty, Helion 2010.
+
+\bibitem{lamport94}
+{Czechy}
+ \url{https://pl.wikipedia.org/wiki/Czechy}{dostep online 1.12.2020.}
+\end{thebibliography}
+\end{document}

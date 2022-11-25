@@ -1,0 +1,46 @@
+Kolokwium LaTeX - rząd P309
+
+Wprowadzenie
+
+To jest wprowadzenie objaśniające nieco kolokwium. Zwróć uwagę, że jesteśmy w sekcji nienumerowanej. W sekcji tytułowej wpisz swoje prawdziwe imię i nazwisko. Jako datę wpisz ręcznie datę pisania kolokwium. W tytule znajduje się specjalny symbol. Ustaw czcionkę na 11 pkt, papier jako letter, dołącz pakiet polski. Spis treści jest na początku. Wszystkie odsyłacze powinny być klikalne.
+
+Zdjęcia
+
+Tutaj testujemy zdjęcia. Mamy parę tekstu lorem ipsum. Tutaj jest odsyłacz do drugiego zdjęcia [].
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mattis mauris nec nisl scelerisque ultrices nec vitae lacus. Nullam porta tortor nec consectetur faucibus. Nam nulla quam, bibendum a felis porta, suscipit sodales lectus. Morbi semper consectetur libero quis ultrices. Pellentesque id ultrices orci, ut cursus arcu. Aenean ut urna sit amet ex tincidunt eleifend. Praesent non pulvinar arcu. Donec ac dignissim urna. Etiam mattis dictum tempor. In sagittis, nisi quis vehicula accumsan, est sapien pharetra libero, sit amet varius metus nisl pellentesque dolor. Donec volutpat ipsum sit amet efficitur dictum. Cras lacinia urna eu tempus lacinia. Nunc lacinia, nunc sed cursus placerat, odio nunc lacinia ligula, nec rhoncus eros purus et quam. Quisque finibus purus dui, sit amet scelerisque tellus gravida ut. Integer sit amet aliquam nunc.
+
+Cras et dapibus felis, vel pulvinar urna. Nulla faucibus porttitor odio vel gravida. Maecenas ullamcorper at nisl a tempor. Sed at nibh facilisis, aliquet massa pulvinar, dignissim orci. Phasellus suscipit tellus eget tincidunt sodales. Mauris tempus ipsum congue, pharetra diam ac, finibus tortor. Pellentesque bibendum tempus neque, id interdum lacus luctus et. Aenean eget tellus ac est mattis dignissim a nec nunc. Etiam eu dolor eros.
+
+Morbi iaculis quam id porta pulvinar. Donec vitae pulvinar lectus. Nam id nisi massa. Sed pulvinar ipsum vitae vestibulum mollis. Donec ornare leo eu nisl mollis, sit amet sollicitudin lectus lacinia. In luctus ante ut pharetra hendrerit. Ut a cursus turpis, at viverra mauris. Duis et quam in est pellentesque placerat. Pellentesque et bibendum elit. Curabitur dapibus lacinia quam, nec suscipit enim euismod nec. Donec porttitor eleifend est. Nam et dapibus justo. Vestibulum pellentesque pulvinar felis eget molestie. Suspendisse potenti. Sed vel pellentesque elit, in feugiat lacus.
+
+Praesent nec massa hendrerit eros rhoncus facilisis in et nunc. Aliquam sagittis turpis eget augue dictum, et ullamcorper tortor blandit. Etiam sed hendrerit tellus. Suspendisse mi sapien, sollicitudin ac iaculis at, placerat et lectus. Curabitur ac augue felis. Fusce vitae felis tempor ipsum mattis sollicitudin. Donec mollis ipsum vel orci accumsan, non malesuada dui efficitur. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+
+Praesent nec massa hendrerit eros rhoncus facilisis in et nunc. Aliquam sagittis turpis eget augue dictum, et ullamcorper tortor blandit. Etiam sed hendrerit tellus. Suspendisse mi sapien, sollicitudin ac iaculis at, placerat et lectus. Curabitur ac augue felis. Fusce vitae felis tempor ipsum mattis sollicitudin. Donec mollis ipsum vel orci accumsan, non malesuada dui efficitur. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+
+Etiam in turpis non dolor tempor tincidunt sed vitae est. Phasellus quis arcu quam. Pellentesque nulla mi, interdum nec dictum vitae, fermentum sed sapien. Nullam tempor nibh in dapibus maximus. Curabitur posuere ex vel risus imperdiet fringilla. Suspendisse potenti. Morbi pulvinar eros neque, at scelerisque orci lacinia molestie. Morbi facilisis dolor sed elit ullamcorper, sit amet molestie augue semper. Aliquam non malesuada lorem, ac gravida leo. Nullam fringilla dolor ac pulvinar condimentum. Suspendisse finibus, mauris et consectetur hendrerit, purus leo aliquet tellus, a mollis lorem urna sed tortor. Phasellus consectetur vestibulum ante, ac molestie purus sollicitudin nec. Sed fermentum pulvinar velit.
+
+Etiam in turpis non dolor tempor tincidunt sed vitae est. Phasellus quis arcu quam. Pellentesque nulla mi, interdum nec dictum vitae, fermentum sed sapien. Nullam tempor nibh in dapibus maximus. Curabitur posuere ex vel risus imperdiet fringilla. Suspendisse potenti. Morbi pulvinar eros neque, at scelerisque orci lacinia molestie. Morbi facilisis dolor sed elit ullamcorper, sit amet molestie augue semper. Aliquam non malesuada lorem, ac gravida leo. Nullam fringilla dolor ac pulvinar condimentum. Suspendisse finibus, mauris et consectetur hendrerit, purus leo aliquet tellus, a mollis lorem urna sed tortor. Phasellus consectetur vestibulum ante, ac molestie purus sollicitudin nec. Sed fermentum pulvinar velit.
+
+Etiam in turpis non dolor tempor tincidunt sed vitae est. Phasellus quis arcu quam. Pellentesque nulla mi, interdum nec dictum vitae, fermentum sed sapien. Nullam tempor nibh in dapibus maximus. Curabitur posuere ex vel risus imperdiet fringilla. Suspendisse potenti. Morbi pulvinar eros neque, at scelerisque orci lacinia molestie. Morbi facilisis dolor sed elit ullamcorper, sit amet molestie augue semper. Aliquam non malesuada lorem, ac gravida leo. Nullam fringilla dolor ac pulvinar condimentum. Suspendisse finibus, mauris et consectetur hendrerit, purus leo aliquet tellus, a mollis lorem urna sed tortor. Phasellus consectetur vestibulum ante, ac molestie purus sollicitudin nec. Sed fermentum pulvinar velit.
+
+Tabele
+
+W tej sekcji numerowanej testujemy tabele. Wykonaj poniższą tabelkę. Jest ona w bieżącym miejscu tekstu. Pierwsza kolumna jest do prawej, druga do środka. Sama tabela jest wyśrodkowana.
+
+To jest odwołanie do tabeli [].
+
+Wzory matematyczne
+
+Tutaj testujemy wzory matematyczne. Wszystkie są wyśrodkowane w oddzielnym wierszu. Zwróć uwagę, że niektóre posiadają numery.
+
+Tryb tekstowy
+
+Tutaj testujemy różne opcje związane z tekstem.
+
+Ten akapit jest pogrubiony i wyrównany do lewej. Oficjalnymi symbolami państwa czeskiego są: wielki i mały herb Czech, flaga Czech, flaga prezydenta Czech, pieczęć państwowa Czech, czeskie barwy narodowe i hymn Czech Gdzie jest dom mój? Symbole państwowe wskazują na tradycje średniowiecznego państwa czeskiego (herb), ruchu husyckiego (hasło Prawda zwycięży! sztandaru prezydenckiego), odrodzenia narodowego (hymn) i Czechosłowacji (flaga). Wyjątkowym szacunkiem darzona jest korona świętego Wacława, będąca relikwią narodową, nieoficjalnym symbolem państwowości i suwerenności czeskiej. Symbolem państwa czeskiego jest również lipa, której wizerunki liści umieszczone są m.in. na pieczęci państwowej i banknotach czeskich.
+
+Ten akapit jest czcionką "maszynową" i wyrównany do prawej. Większość terytorium Czech zajmują tereny wyżynno-górskie Masywu Czeskiego. Jest on otoczony z trzech stron górami: Sudetami (Śnieżka 1603 m n.p.m.), Rudawami (Klínovec 1244 m n.p.m.), Lasem Czeskim (1042 m n.p.m.) i Lasem Bawarskim (Szumawą). Środkowa część Masywu Czeskiego jest zapadliskiem z doliną Łaby, zaś na południu znajdują się kotliny Trzebońska i Budziejowicka. Od Karpat Masyw Czeski oddzielony jest na wschodzie morawsko-śląskim pasem obniżeń.
+
+R. Martin, Czysty kod. Podręcznik dobrego programisty, Helion 2010.
+Czechy, https://pl.wikipedia.org/wiki/Czechy, dostęp online 1.12.2020.
