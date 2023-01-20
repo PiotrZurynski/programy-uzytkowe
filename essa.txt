@@ -1,0 +1,57 @@
+zadanie 1
+a)log10(15)/(log10(4))+log10(13)/log10(8)/log10(45)+log10(4)
+ b)
+A=[1,-2,3,0;3,3,0,6;1,-2,5,8;6,3,-1,0]
+B=[6,-2,0;3,0,6;-2,6,8;8,-1,0]
+A*B
+C)
+a=55
+h=22
+V=sqrt(3)/(12) *a*a*h
+d)
+sum=0
+for k=-2:23
+ sum=sum +(k^2+33)/3^k;
+end
+disp(sum)
+
+Zadanie 2
+--> x=linspace(2,6,100);
+
+--> f=log(x+9)/log(7) +2;
+
+--> g=(x^3+9x)/(x^2+22x+5) +1;
+g=(x^3+9x)/(x^2+22x+5) +1;
+       ^~^
+Error: syntax error, unexpected identifier, expecting end of file
+
+--> g=(x^3+9*x)/(x^2+22x+5) +1;
+g=(x^3+9*x)/(x^2+22x+5) +1;
+                 ^~~^
+Error: syntax error, unexpected identifier, expecting end of file
+
+--> g=(x^3+9*x)/(x^2+22*x+5) +1;
+
+--> plot (x,f,'-r',x,g,'-g');
+WARNING: Transposing row vector X to get compatible dimensions
+
+--> plot(x,f,'-r',x,g,'-g');
+WARNING: Transposing row vector X to get compatible dimensions
+
+--> legend("f(x)","g(x)");
+
+--> xlabel("x");
+
+--> ylabel("y");
+
+Zadanie 3
+year =[2010,2012,2014,2016,2018]
+olsztyn=[142,123,132,123,144]
+bialystok=[127,112,163,112,138]
+clf
+
+bar( year,[olsztyn;bialystok]','grouped' );
+legend("olsztyn","bialystok");
+title("miejscowosci");
+xlabel("rok");
+ylabel("dane");
